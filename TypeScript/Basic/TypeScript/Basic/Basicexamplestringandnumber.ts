@@ -19,7 +19,7 @@ console.log(message);
 //Number variable and result
 let num: number = 80+80*9;
 //String variable
-var message:string = "Example one about basic TypeScript!";
+let message:string = "Example one about basic TypeScript!";
 
 //Print number result
 console.log(num);
@@ -31,7 +31,7 @@ console.log(message);
 //Number variable and result
 const num: number = 80+80*9;
 //String variable
-var message:string = "Example one about basic TypeScript!";
+const message:string = "Example one about basic TypeScript!";
 
 //Print number result
 console.log(num);
