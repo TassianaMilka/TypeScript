@@ -1,5 +1,5 @@
 
-//Create code aobut array with number and string
+//Create code about array with number and string
 
 
 
