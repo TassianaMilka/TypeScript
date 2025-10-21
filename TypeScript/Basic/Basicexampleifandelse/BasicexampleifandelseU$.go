@@ -1,4 +1,4 @@
-//Crete  code about U$3400 and use if/else.
+//Crete  code about U$3400 and use  if/else.
 
 
 //Variable
