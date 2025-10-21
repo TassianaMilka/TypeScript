@@ -3,7 +3,7 @@
 
 //Variable
 
-let nome="Tassiana Milka!";
+let name="Tassiana Milka!";
 
 
 //structure
