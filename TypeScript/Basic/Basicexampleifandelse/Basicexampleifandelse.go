@@ -14,7 +14,7 @@ if (name=="Tassiana Milka"){
 console.log("Name is true!"); 
 
 
-}else if(name="Milka"){
+}else if(name=="Milka"){
   
   //Print message
   console.log("Return!");
